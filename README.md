@@ -1,7 +1,7 @@
 
-# Talk-A-Tive
+# Talk Hub
 
-Talk-a-tive is a Full Stack Chatting App.
+Talk Hub is a Full Stack Chatting App.
 Uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
 ## Tech Stack
 
@@ -13,7 +13,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
-[https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
+[https://Talk Hub.herokuapp.com/](https://Talk Hub-7fgq.onrender.com)
 
 ![](https://github.com/Vikas-Rajliwal/Talk_Hub.git/blob/master/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
