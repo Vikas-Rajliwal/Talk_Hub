@@ -42,7 +42,7 @@ if (process.env.NODE_ENV === "production") {
 app.use(notFound);
 app.use(errorHandler);
 
-const PORT = 5000;
+// const PORT = 5000;
 console.log(`PORT: ${PORT}`.yellow);
 const server = app.listen(
   PORT,
