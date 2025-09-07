@@ -13,7 +13,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
   
 ## Demo
 
-[https://Talk Hub.herokuapp.com/](https://Talk Hub-7fgq.onrender.com)
+([https://Talk Hub-7fgq.onrender.com](https://talk-hub-1.onrender.com/))
 
 ![](https://github.com/Vikas-Rajliwal/Talk_Hub.git/blob/master/screenshots/group%20%2B%20notif.PNG)
 ## Run Locally
@@ -58,24 +58,23 @@ Start the Client
 # Features
 
 ### Authenticaton
-![](https://github.com/Vikas-Rajliwal/Talk_Hub.git/blob/master/screenshots/login.PNG)
-![](https://github.com/Vikas-Rajliwal/Talk_Hub.git/blob/master/screenshots/signup.PNG)
+
 ### Real Time Chatting with Typing indicators
-![](https://github.com/Vikas-Rajliwal/Talk_Hub.git/blob/master/screenshots/real-time.PNG)
+
 ### One to One chat
-![](https://github.com/Vikas-Rajliwal/Talk_Hub.git/blob/master/screenshots/mainscreen.PNG)
+
 ### Search Users
-![](https://github.com/Vikas-Rajliwal/Talk_Hub.git/blob/master/screenshots/search.PNG)
+
 ### Create Group Chats
-![](https://github.com/Vikas-Rajliwal/Talk_Hub.git/blob/master/screenshots/new%20grp.PNG)
+
 ### Notifications 
-![](https://github.com/Vikas-Rajliwal/Talk_Hub.git/blob/master/screenshots/group%20%2B%20notif.PNG)
+
 ### Add or Remove users from group
-![](https://github.com/Vikas-Rajliwal/Talk_Hub.git/blob/master/screenshots/add%20rem.PNG)
+
 ### View Other user Profile
-![](https://github.com/Vikas-Rajliwal/Talk_Hub.git/blob/master/screenshots/profile.PNG)
+
 ## Made By
 
-- [@Piyush-eon](https://github.com/piyush-eon)
+-https://github.com/Vikas-Rajliwal
 
   
